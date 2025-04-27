@@ -1,0 +1,8 @@
+﻿  Object.cpp
+  SolarSystem.cpp
+D:\develop\D3DSampleCamera\SolarSystem\SolarSystem\SolarSystem.cpp(76,9): warning C4060: switch문에 'case' 또는 'default' 레이블이 없습니다.
+D:\develop\D3DSampleCamera\SolarSystem\SolarSystem\SolarSystem.cpp(169,28): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\develop\D3DSampleCamera\SolarSystem\SolarSystem\SolarSystem.cpp(175,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\develop\D3DSampleCamera\SolarSystem\SolarSystem\SolarSystem.cpp(175,24): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  코드를 생성하고 있습니다...
+  SolarSystem.vcxproj -> D:\develop\D3DSampleCamera\SolarSystem\x64\Debug\SolarSystem.exe
